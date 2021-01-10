@@ -18,13 +18,10 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/MkrtichSargsyan/linters-config.git"
+      "url": "#"
     },
-    "author": "",
+    "author": "#",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/MkrtichSargsyan/linters-config/issues"
-    },
-    "homepage": "https://github.com/MkrtichSargsyan/linters-config#readme"
+    "homepage": "#"
   }
   
